@@ -12,5 +12,7 @@ Algorithm practices as a method of code everyday.
 - 문제 소스는 추후 업데이트
 
 ## 꾸준히, 포기하지 말고 조급해하지 않기!
-- be stimulated by and references from, John Resig's project "Write code every day".
+- Be stimulated by and references from, John Resig's project "Write code every day".
 - https://johnresig.com/blog/write-code-every-day/
+- Also got inspiration from github user, zzsza.
+- https://github.com/zzsza/Algorithm-Training
