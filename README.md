@@ -1,7 +1,8 @@
 # Algorithm-Practices
 Algorithm practices as a method of code everyday.
 
-시작일 : 2017년 11월 28일
+~~시작일 : 2017년 11월 28일~~
+다시 시작일: 2018년 06월 10일
 
 ## 규칙
 
