@@ -5,8 +5,7 @@
 .DS_Store
 
 # ipynb related files
-.ipynb_checkpoints
-./*/.ipynb_checkpoints
+.ipynb_checkpoints/
 _ipynbs/.ipynb_checkpoints
 _ipynbs_profile/security
 _ipynbs_profile/log
